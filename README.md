@@ -4,8 +4,10 @@ This project focuses on generating handwritten digits (0-9) using machine learni
 
 ## Team Members
 LUCIANO LI - DC227316
+
 SEKI TOMOKI - DC227171
 
 ## Project Structure
 CISC3024_FinalProject.ipynb -- Mian file
+
 results -- Generated imageGenerated
